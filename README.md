@@ -8,7 +8,7 @@ To understand purchase behavior and streamline operations, You have collected tr
 * Which products are sold most and least often? Which drives the most revenue for the business?
 
 #### Concepts:
-Power Query, date function, aggregation functions, Pivot Tables, Charts, table, interactive dashboard.
+Power Query, date function, aggregation functions, Pivot Tables, Charts, table, Slicer interactive dashboard.
 
 #### Insights
 * Astotia is the best coffee store in three stories.Only Tuesday & Saturday are low transaction rates when compared to other days.
