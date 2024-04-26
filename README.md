@@ -1,6 +1,6 @@
 # Coffee Shop Dashboard
 Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. The dataset includes the transaction date, timestamp and location, along with product-level details.
-To understand purchase behavior and streamline operations, You have collected transactional data from Jan-Jun 2023. The goal is to transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends, and opportunities for the business.
+To understand purchase behavior and streamline operations, collected transactional data from Jan-Jun 2023. The goal is to transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends, and opportunities for the business.
 
 #### Understanding requirements:
 * How have Maven Roasters sales trended over time?
