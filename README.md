@@ -8,11 +8,11 @@ To understand purchase behavior and streamline operations, collected transaction
 * Which products are sold most and least often? Which drives the most revenue for the business?
 
 #### I took the following steps to create my analysis
-1) Downloaded all data from the Maven website, cleaned it, and prepared it for analysis.
-2) creating the charts and placing them in the dashboard tab
-3) utilizing a pivot table to aggregate KPIs at the top of the page
-4) creating the slicers and syncing all tables together for filtering
-5) Formated all sessions of the dashboard and created an overview theme.
+1) Downloaded data from the Maven website, conducted cleaning processes, and organized it for analytical purposes.
+2) Utilized pivot tables to structure and summarize the cleaned data, facilitating easy analysis and interpretation.
+3) Created charts based on the prepared data and arranged them within the dashboard tab for visualization.
+4) Established slicers to enable interactive filtering across all tables, ensuring seamless data exploration.
+5) Formatted each section of the dashboard and applied a cohesive theme for a visually appealing and cohesive presentation of insights.
 
 #### Here are my key takeaways
 * Astotia is the best coffee store in three stories. Only Tuesday & Saturday are low transaction rates when compared to other days.
