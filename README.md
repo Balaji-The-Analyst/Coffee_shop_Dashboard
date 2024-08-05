@@ -7,7 +7,7 @@ To understand purchase behavior and streamline operations, collected transaction
 * Which days of the week tend to be busiest, and why do you think that's the case?
 * Which products are sold most and least often? Which drives the most revenue for the business?
 
-## I took the following steps to create my analysis
+## I took the following steps to create my analysis & Dashboard
 1) Downloaded data from the Maven website, conducted cleaning processes, and organized it for analytical purposes.
 2) Utilized pivot tables to structure and summarize the cleaned data, facilitating easy analysis and interpretation.
 3) Created charts based on the prepared data and arranged them within the dashboard tab for visualization.
