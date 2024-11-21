@@ -21,4 +21,7 @@ To understand purchase behavior and streamline operations, collected transaction
 * Coffee beans, Loose Tea, Branded and packaged chocolate performed very poorly.
 * Brewed Chai tea is the best product in all three cities.
 
+## Sales Report
+![image](https://github.com/user-attachments/assets/a8d856ed-765a-451b-b30f-18629861516d)
+
 
